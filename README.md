@@ -65,17 +65,18 @@ Developed to bridge the gap between raw data entry and actionable insights, this
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/student-performance-analyzer.git](https://github.com/your-username/student-performance-analyzer.git)
+    git clone [https://github.com/aliraza5101/Student-Performance-Analyzer-GUI-Based.git)
     ```
 2.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
-    # (Or instructions for your specific language)
+    pip install customtkinter packaging
+    pip install matplotlib
+    pip install pandas
     ```
 3.  **Run the application:**
     ```bash
-    python main.py
-    # (Replace with your execution command)
+    python student_anayzer.py
     ```
 
 ---
