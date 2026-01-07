@@ -49,8 +49,6 @@ Developed to bridge the gap between raw data entry and actionable insights, this
 | ![Add Student](add-student-image.PNG) | ![Records](records-image.PNG) |
 | *Data entry with validation* | *Auto-calculated grades* |
 
-*(Note: Replace the paths above with the actual links to your uploaded images)*
-
 ---
 
 ## 🛠️ Tech Stack
