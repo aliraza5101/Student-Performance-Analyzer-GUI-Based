@@ -41,12 +41,12 @@ Developed to bridge the gap between raw data entry and actionable insights, this
 
 | **Dashboard** | **Analytics Hub** |
 |:---:|:---:|
-| ![Dashboard](path/to/your/dashboard-image.png) | ![Analytics](path/to/your/analytics-image.png) |
+| ![Dashboard](dashboard-image.PNG) | ![Analytics](analytics-image.PNG) |
 | *Real-time stats & quote* | *Grade distribution visualization* |
 
 | **Add Record** | **Student List** |
 |:---:|:---:|
-| ![Add Student](path/to/your/add-student-image.png) | ![Records](path/to/your/records-image.png) |
+| ![Add Student](add-student-image.PNG) | ![Records](records-image.PNG) |
 | *Data entry with validation* | *Auto-calculated grades* |
 
 *(Note: Replace the paths above with the actual links to your uploaded images)*
@@ -55,11 +55,11 @@ Developed to bridge the gap between raw data entry and actionable insights, this
 
 ## 🛠️ Tech Stack
 
-* **Language:** `[Python / C# / Java]`
+* **Language:** `[Python]`
 * **GUI Framework:** `[CustomTkinter / Tkinter / Windows Forms / WPF]`
-* **Database:** `[SQLite / MySQL / CSV handling]`
+* **Database:** `[Excel]`
 * **Data Visualization:** `[Matplotlib / LiveCharts]`
-* **IDE:** `[VS Code / PyCharm / Visual Studio]`
+* **IDE:** `[VS Code / Visual Studio]`
 
 ---
 
@@ -87,7 +87,7 @@ Developed to bridge the gap between raw data entry and actionable insights, this
 **Developed by:** Ali Raza Qureshi  
 **Supervised by:** Dr. Wajid Arshad Abbasi
 
-This project was developed as part of `[Insert Course Name/Semester Project]` to demonstrate proficiency in desktop application development and data handling.
+This project was developed as part of `Programming for AI | Semester Project` to demonstrate proficiency in desktop application development and data handling.
 
 ---
 
